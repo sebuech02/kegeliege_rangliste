@@ -7,6 +7,34 @@
     <name>Rotter</name>
     <zahl>10</zahl>
 </rangliste>
+<rangliste>
+    <name>Zwerg</name>
+    <zahl>5</zahl>
+</rangliste>
+<rangliste>
+    <name>Wiecklaß</name>
+    <zahl>4</zahl>
+</rangliste>
+<rangliste>
+    <name>Blome</name>
+    <zahl>3</zahl>
+</rangliste>
+<rangliste>
+    <name>Langer</name>
+    <zahl>2</zahl>
+</rangliste>
+<rangliste>
+    <name>Anabol</name>
+    <zahl>1</zahl>
+</rangliste>
+<rangliste>
+    <name>Erroch</name>
+    <zahl>1</zahl>
+</rangliste>
+<rangliste>
+    <name>Tolky</name>
+    <zahl>1</zahl>
+</rangliste>
 <pumpenk>Blome</pumpenk>
 <kegelk>Steffen</kegelk>
 <nhaus>
@@ -21,9 +49,17 @@
     <kegler>Wiecklaß</kegler>
     <striche>16</striche>
 </bier>
+<bier>
+    <kegler>Wiecklaß</kegler>
+    <striche>14</striche>
+</bier>
+<bier>
+    <kegler>Spakko</kegler>
+    <striche>14</striche>
+</bier>
 <misc>
-    <eintrag>Aktueller 2 Aidskönig: Churchill</eintrag>
+    <eintrag>Aktueller 2 Harther Kreisrunkelkönig: Horst Otto Wiecklaß Winston Elizabeth Denemark Chamberlain</eintrag>
 </misc>
 <misc>
-    <eintrag>Testnachricht wichtig</eintrag>
+    <eintrag>Neue Kegelapp, man kann Bierbestellen</eintrag>
 </misc>
