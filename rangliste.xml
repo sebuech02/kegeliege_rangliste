@@ -17,18 +17,18 @@
 </rangliste>
 <rangliste>
     <name>Blome</name>
-    <zahl>3</zahl>
+    <zahl>4</zahl>
 </rangliste>
 <rangliste>
     <name>Langer</name>
-    <zahl>2</zahl>
+    <zahl>3</zahl>
 </rangliste>
 <rangliste>
     <name>Anabol</name>
     <zahl>1</zahl>
 </rangliste>
 <rangliste>
-    <name>Erroch</name>
+    <name>Errich</name>
     <zahl>1</zahl>
 </rangliste>
 <rangliste>
@@ -36,7 +36,7 @@
     <zahl>1</zahl>
 </rangliste>
 <pumpenk>Blome</pumpenk>
-<kegelk>Steffen</kegelk>
+<kegelk>Langer</kegelk>
 <nhaus>
     <werfer>Spakko</werfer>
     <nummer>011</nummer>
@@ -61,5 +61,5 @@
     <eintrag>Aktueller 2 Harther Kreisrunkelkönig: Horst Otto Wiecklaß Winston Elizabeth Denemark Chamberlain</eintrag>
 </misc>
 <misc>
-    <eintrag>Neue Kegelapp, man kann Bierbestellen</eintrag>
+    <eintrag>Neue Kegelapp, man kann nichtmehr Bierbestellen aber dafür spielen (bald)</eintrag>
 </misc>
