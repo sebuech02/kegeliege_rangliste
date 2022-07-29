@@ -79,11 +79,6 @@
 <ursache>Wasser</ursache>
 </score>
 <score>
-<name>Frank</name>
-<punkte>48</punkte>
-<ursache>Cola</ursache>
-</score>
-<score>
 <name>Zwerg </name>
 <punkte>22</punkte>
 <ursache>Cola</ursache>
@@ -91,11 +86,6 @@
 <score>
 <name>Roter</name>
 <punkte>44</punkte>
-<ursache>Cola</ursache>
-</score>
-<score>
-<name>roter</name>
-<punkte>48</punkte>
 <ursache>Cola</ursache>
 </score>
 <score>
@@ -181,6 +171,12 @@
 <score>
 <name>Roter</name>
 <punkte>114</punkte>
+<ursache>Cola</ursache>
+</score>
+<score>
+<name>Errich
+</name>
+<punkte>171</punkte>
 <ursache>Cola</ursache>
 </score>
 <score>
@@ -296,11 +292,6 @@
 <score>
 <name>carloshitboxistnefrechheit</name>
 <punkte>101</punkte>
-<ursache>Cola</ursache>
-</score>
-<score>
-<name>CarlosHitBoxIsNeFrechheit</name>
-<punkte>108</punkte>
 <ursache>Cola</ursache>
 </score>
 <score>
