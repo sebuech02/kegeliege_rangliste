@@ -35,8 +35,16 @@
     <name>Tolky</name>
     <zahl>1</zahl>
 </rangliste>
-<pumpenk>Blome</pumpenk>
-<kegelk>Spakko</kegelk>
+<rangliste>
+    <name>Spakko</name>
+    <zahl>1</zahl>
+</rangliste>
+<rangliste>
+    <name>Driver</name>
+    <zahl>1</zahl>
+</rangliste>
+<pumpenk>Driver</pumpenk>
+<kegelk>Leider Vergessen</kegelk>
 <nhaus>
     <werfer>Spakko</werfer>
     <nummer>011</nummer>
@@ -61,7 +69,7 @@
     <eintrag>Nicht aktueller 2 Harther Kreisrunkelkönig: Horst Otto Wiecklaß Winston Elizabeth Denemark Chamberlain</eintrag>
 </misc>
 <misc>
-    <eintrag>30. Juli 10:00 Kegelwanderung, Start Leiberg, Hauptstraße 65, und Ziel Siddinghausen bei Tolky. Es gibt einen Bollerwagen und Bier. Es wird gegrillt und dabei braucht ihr kein Werkzeug. (Bitte alle die 10€ an Marrius schicken)</eintrag>
+    <eintrag>Wanderung oder so wäre mal wieder toll</eintrag>
 </misc>
 <score>
 <name>#1</name>
